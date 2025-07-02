@@ -10,43 +10,42 @@ This analysis evaluates the potential financial synergies from a hypothetical me
 
 ### Mr. Cooper Group Inc.
 
-* **Market Capitalization**: \$7,650 million
-* **EBITDA**: \$950 million
-* **Revenue**: \$2,225 million
-* **Total Debt**: \$11,386 million
-* **Cash and Equivalents**: \$973 million
-* **Net Debt**: \$10,413 million
-* **Enterprise Value (EV)**: \$18,063 million
-* **EV/EBITDA Multiple**: 19.01x (27.16% premium over industry average of 14.95x)
+* **Market Capitalization:** \$7,650 million
+* **EBITDA:** \$950 million
+* **Revenue:** \$2,225 million
+* **Total Debt:** \$11,386 million
+* **Cash and Equivalents:** \$973 million
+* **Net Debt:** \$10,413 million
+* **Enterprise Value (EV):** \$18,063 million
+* **EV/EBITDA Multiple:** 19.01x (27.16% premium over industry average of 14.95x)
 
 ### Rocket Companies, Inc.
 
-* **Market Capitalization**: \$25,240 million
-* **EBITDA**: \$862 million
-* **Revenue**: \$5,101 million
-* **Total Debt**: \$10,840 million
-* **Cash and Equivalents**: \$1,273 million
-* **Net Debt**: \$9,567 million
-* **Enterprise Value (EV)**: \$34,807 million
-* **EV/EBITDA Multiple**: 40.38x (170.16% premium over industry average of 14.95x)
+* **Market Capitalization:** \$25,240 million
+* **EBITDA:** \$862 million
+* **Revenue:** \$5,101 million
+* **Total Debt:** \$10,840 million
+* **Cash and Equivalents:** \$1,273 million
+* **Net Debt:** \$9,567 million
+* **Enterprise Value (EV):** \$34,807 million
+* **EV/EBITDA Multiple:** 40.38x (170.16% premium over industry average of 14.95x)
 
 ### Combined Entity (Pre-Synergies)
 
-* **Total Revenue**: \$7,326 million
-* **Total EBITDA**: \$1,812 million
-* **Total Market Capitalization**: \$32,890 million
-* **Total Enterprise Value**: \$52,870 million
+* **Total Revenue:** \$7,326 million
+* **Total EBITDA:** \$1,812 million
+* **Total Market Capitalization:** \$32,890 million
+* **Total Enterprise Value:** \$52,870 million
 
 ---
 
 ## Industry Valuation Context
 
-The average EV/EBITDA multiple for the mortgage finance industry is 14.95x.
+* **Industry Average EV/EBITDA:** 14.95x
+* Mr. Cooper: 19.01x (**+27.16% premium**)
+* Rocket: 40.38x (**+170.16% premium**)
 
-* Mr. Cooper trades at 19.01x, reflecting a 27.16% premium.
-* Rocket Companies trades at 40.38x, reflecting a 170.16% premium.
-
-Such high premiums indicate strong market expectations for performance, which necessitate the realization of synergies to justify valuations.
+> These premiums indicate high market expectations, making synergy realization critical to justifying valuations.
 
 ---
 
@@ -54,25 +53,29 @@ Such high premiums indicate strong market expectations for performance, which ne
 
 ### Revenue Synergies
 
-* **Estimated Annual Revenue Synergies**: \$100 million
-* **As % of Combined Revenue**: 1.37%
-* **Drivers**:
+* **Annual Revenue Synergies:** \$100 million
+* **% of Combined Revenue:** 1.37%
 
-  * Cross-selling Rocket’s loan origination services to Mr. Cooper’s servicing base
-  * Expanded customer reach through digital platforms
+**Drivers:**
+
+* Cross-selling Rocket’s origination services to Mr. Cooper’s servicing base
+* Expanding customer reach via digital platforms
 
 ### Cost Synergies
 
-* **Estimated Annual Cost Synergies**: \$400 million
-* **As % of Combined Revenue**: 5.46%
-* **As % of Combined EBITDA**: 22.08%
-* **Drivers**:
+* **Annual Cost Synergies:** \$400 million
+* **% of Combined Revenue:** 5.46%
+* **% of Combined EBITDA:** 22.08%
 
-  * Platform integration
-  * Reduction in overhead and duplicative functions
-  * IT and operations optimization
+**Drivers:**
 
-**Total Estimated Annual Synergies**: \$500 million
+* Platform integration
+* Overhead and headcount reductions
+* IT and operations optimization
+
+### Total Annual Synergies
+
+* **\$500 million**
 
 ---
 
@@ -88,24 +91,25 @@ Such high premiums indicate strong market expectations for performance, which ne
 
 ## Impact on EBITDA
 
-* **Combined EBITDA (pre-synergies)**: \$1,812 million
-* **Total Annual Synergies**: \$500 million
-* **EBITDA Post-Synergies**: \$2,312 million
-* **EBITDA Increase**: 27.59%
+* **Combined EBITDA (Pre-Synergies):** \$1,812 million
+* **Total Annual Synergies:** \$500 million
+* **EBITDA Post-Synergies:** \$2,312 million
+* **EBITDA Increase:** 27.59%
 
 ---
 
-## Present Value of Synergies
+## Present Value of Synergies (Corrected)
 
-Discounted at 9% (WACC), assuming realization over 3 years:
+ **Discount Rate (WACC):** 9%
 
-| Year | Synergy Value (\$ million) | Discount Factor | Present Value (\$ million) |
-| ---- | -------------------------- | --------------- | -------------------------- |
-| 1    | 150                        | 0.9174          | 137.6                      |
-| 2    | 300                        | 0.8417          | 252.5                      |
-| 3    | 500                        | 0.7722          | 386.1                      |
+| Year | Incremental Synergy (\$M) | Discount Factor | Present Value (\$M) |
+| ---- | ------------------------- | --------------- | ------------------- |
+| 1    | 150                       | 0.9174          | 137.6               |
+| 2    | 150                       | 0.8417          | 126.3               |
+| 3    | 200                       | 0.7722          | 154.4               |
+|      |                           |                 | **\$418.3 million** |
 
-**Total Present Value of Synergies**: \$776.2 million
+**Total Present Value of Synergies:** **\$418.3 million** 
 
 ---
 
@@ -113,19 +117,17 @@ Discounted at 9% (WACC), assuming realization over 3 years:
 
 ### Valuation Justification
 
-* The estimated \$500 million in annual synergies helps support Mr. Cooper’s and Rocket’s above-average EV/EBITDA multiples.
-* Realizing cost efficiencies and leveraging Rocket’s fintech platform are critical to achieving financial and operational integration.
+* The corrected \$418.3 million PV of synergies provides **limited support** for current valuation premiums.
+* Achieving integration benefits, particularly cost efficiencies and tech leverage, is essential to delivering value.
 
-### Risks
+### Key Risks
 
-* Integration complexity, especially between technology platforms and servicing operations
-* Regulatory approvals and compliance
-* Macroeconomic uncertainty, particularly interest rate fluctuations
+* Integration complexity (especially technology & servicing platforms)
+* Regulatory hurdles and antitrust scrutiny
+* Macroeconomic volatility, notably interest rate sensitivity
 
 ---
 
 ## Conclusion
 
-The proposed merger could yield \$500 million in annual synergies, with a present value of approximately \$776.2 million. These synergies, if realized, would enhance the combined EBITDA by 27.59% and help justify the significant valuation premiums observed in both firms. The strategic rationale is strong, but execution and integration will be key to unlocking this value.
-
----
+The proposed merger could yield \$500 million in annual synergies, with a **present value of approximately \$418.3 million** after correcting for discounted realization timing. While the EBITDA uplift of 27.59% is meaningful, the modest synergy NPV—relative to a \$52.87 billion combined enterprise value—means this deal’s strategic success **hinges on flawless execution**. Premium valuations currently embedded in both stocks demand delivery, or the deal risks value destruction.
